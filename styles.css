@@ -26,3 +26,9 @@ body{
     background-color: rgb(170, 221, 230);
     border-bottom: 4px solid black; 
 }
+
+.recipe-links{
+    display: block;
+    text-align: center;
+    list-style-type: none;
+}

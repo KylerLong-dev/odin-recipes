@@ -4,7 +4,9 @@
 
 body{
     font-family: Georgia, 'Times New Roman', Times, serif;
-    background-color: #e6d9d9;
+    background-color: #fefafa;
+    height: 100%;
+    margin: 0;
 }
 
 .food-pic{
@@ -12,6 +14,15 @@ body{
     margin: 60px auto;
     width: 600px;
     height: auto;
-    border: 5px rgba(41, 40, 40, 0.635); 
+    border: 1px solid rgba(27, 26, 26, 0.635); 
     border-radius: 8px;
+}
+
+.title{
+    display: block;
+    text-align: center;
+    height: 100%;
+    padding: 20px;
+    background-color: rgb(170, 221, 230);
+    border-bottom: 4px solid black; 
 }
